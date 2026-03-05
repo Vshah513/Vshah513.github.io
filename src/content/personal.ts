@@ -6,6 +6,7 @@ export const personal = {
   linkedin: "https://linkedin.com/in/virajshah",
   github: "https://github.com/Vshah513",
   portfolioRepo: "https://github.com/Vshah513/Portfolio",
+  portfolioLive: "https://portfolio-vshah.vercel.app",
   resumeUrl: "/resume.pdf",
   location: "Nairobi, Kenya",
 

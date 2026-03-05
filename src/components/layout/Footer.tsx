@@ -10,12 +10,21 @@ export function Footer() {
           </p>
           <p className="mt-2 text-xs">
             <a
+              href={personal.portfolioLive}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--color-gold)] hover:underline"
+            >
+              Portfolio (live)
+            </a>
+            {" · "}
+            <a
               href={personal.portfolioRepo}
               target="_blank"
               rel="noopener noreferrer"
               className="text-[var(--color-gold)] hover:underline"
             >
-              Portfolio source (GitHub)
+              Source (GitHub)
             </a>
           </p>
         </div>
