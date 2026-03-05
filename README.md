@@ -2,6 +2,15 @@
 
 Professional portfolio website showcasing web development projects, skills, and entrepreneurial ventures.
 
+## 🔗 Links
+
+| | |
+|---|---|
+| **Personal website** | [vshah513.github.io](https://vshah513.github.io) |
+| **Mini project** | [ivy-dev.com](https://ivy-dev.com) — Consulting & development |
+
+---
+
 ## 🌐 Live Site
 - **Portfolio**: [https://vshah513.github.io/oim3690/](https://vshah513.github.io/oim3690/)
 - **Course Work**: [https://vshah513.github.io/oim3690/course.html](https://vshah513.github.io/oim3690/course.html)
