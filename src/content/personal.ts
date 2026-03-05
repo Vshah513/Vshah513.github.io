@@ -5,6 +5,7 @@ export const personal = {
   email: "viraj@example.com",
   linkedin: "https://linkedin.com/in/virajshah",
   github: "https://github.com/Vshah513",
+  portfolioRepo: "https://github.com/Vshah513/Portfolio",
   resumeUrl: "/resume.pdf",
   location: "Nairobi, Kenya",
 

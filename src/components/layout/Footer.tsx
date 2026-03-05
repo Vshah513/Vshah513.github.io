@@ -8,6 +8,16 @@ export function Footer() {
           <p className="text-xs text-[var(--color-text-muted)]">
             &copy; {new Date().getFullYear()} {personal.name}. All rights reserved.
           </p>
+          <p className="mt-2 text-xs">
+            <a
+              href={personal.portfolioRepo}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--color-gold)] hover:underline"
+            >
+              Portfolio source (GitHub)
+            </a>
+          </p>
         </div>
       </div>
     </footer>
