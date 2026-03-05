@@ -6,7 +6,8 @@ Professional portfolio website showcasing web development projects, skills, and 
 
 | | |
 |---|---|
-| **Personal website** | [vshah513.github.io](https://vshah513.github.io) |
+| **Personal website (source)** | [github.com/Vshah513/Portfolio](https://github.com/Vshah513/Portfolio) — latest code |
+| **Live site** | [vshah513.github.io](https://vshah513.github.io) |
 | **Mini project** | [ivy-dev.com](https://ivy-dev.com) — Consulting & development |
 
 ---
